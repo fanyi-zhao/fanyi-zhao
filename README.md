@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @euclideanrn
-- 👀 I’m interested in llvm
-- 🌱 I’m currently learning C++, llvm, Ocaml
-- 💞️ I’m looking to collaborate on any interesting open-source project.
+- 👋 Hi, I’m @euclideanrn, my favorite programming languages: Java ☕️ / Scala λ / Python 🐍
+- 👀 I’m interested in understanding the implementation of some famous opensource systems (such as redis, recently). Occasionally solve some leetcode problems.
+- 🌱 I’m currently learning C/C++ 🚀
+- 💞️ I’m looking to collaborate on any interesting project.
 - 📫 euclideanrn@163.com
 
 
