@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @euclideanrn, my favorite programming languages: Java ☕️ / Scala λ / Python 🐍
 - 👀 I’m interested in understanding the implementation of some famous opensource systems. Occasionally solve some leetcode problems.
-- 🌱 I’m currently learning C/C++ 🚀
+- 🌱 I’m currently learning C/C++ 🚀 and llvm 🛠
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📫 euclideanrn@163.com
 
