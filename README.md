@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fzzhao, my favorite programming languages: Java ☕️ / Python 🐍 / OCaml 🐫
+- 👋 Hi, I’m @fanyi-zhao, my favorite programming languages: Java ☕️ / Python 🐍 / OCaml 🐫
 - 👀 I’m interested in understanding the implementation of some famous open source systems. Occasionally solve some leetcode problems.
 - 🌱 I’m currently learning C/C++ 🚀 and llvm 🛠
 - 💞️ I’m looking to collaborate on any interesting project.
