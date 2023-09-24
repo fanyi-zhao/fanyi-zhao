@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fanyi-zhao, my favorite programming languages: Java ☕️ / Python 🐍 / OCaml 🐫
-- 👀 I’m interested in understanding the implementation of some famous open source systems. Occasionally solve some leetcode problems.
-- 🌱 I’m currently learning C/C++ 🚀 and llvm 🛠
+- 👋 Hi, I’m @fanyi-zhao, my favorite programming languages: Java ☕️ / Rust / Python 🐍 / OCaml 🐫
+- 👀 I'm interested in learning about programming languages and how they are implemented.
+- 🌱 I’m currently learning Rust 🚀 and LLVM 🛠
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📫 euclideanrn@163.com
 
