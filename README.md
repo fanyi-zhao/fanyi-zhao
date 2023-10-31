@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fanyi-zhao, my favorite programming languages: Java ☕️ / Rust / Python 🐍 / OCaml 🐫
-- 👀 I'm interested in learning about programming languages and how they are implemented.
-- 🌱 I’m currently learning Rust 🚀 and LLVM 🛠
+- 👀 I'm interested in learning about compilers, optimization, and formal verification.
+- 🌱 I’m currently learning Rust 🚀, LLVM 🛠, and [Boogie](https://github.com/boogie-org/boogie).
 - 💞️ I’m looking to collaborate on any interesting project.
 - GitHub: github.com/fanyi-zhao
 
