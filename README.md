@@ -1,7 +1,8 @@
-Hi there, I'm @fanyi-zhao and I love programming with Java ☕️, Rust, Python 🐍, and OCaml 🐫. 
-Currently, I'm interested in expanding my knowledge in compilers, optimization, and formal verification. 
-At the moment, I'm learning Rust 🚀, LLVM 🛠, and [Boogie](https://github.com/boogie-org/boogie) to improve my skills. 
-If you have an interesting project, I would love to collaborate with you. Feel free to reach out via GitHub.
+Hi there! I'm @fanyi-zhao. I love building software and solving complex engineering problems using Java ☕️, Rust 🦀, Python 🐍, and OCaml 🐫.
+
+I have a strong enthusiasm for compilers and DSLs, and lately, I've been fascinated by the mechanics of LLM inference engines. I'm always looking to learn new things and improve my craft in optimization and software analysis.
+
+Feel free to reach out via GitHub if you want to chat or collaborate!
 
 <!---
 📈 my Github stats
