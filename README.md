@@ -1,6 +1,6 @@
 Hi there! I'm @fanyi-zhao. I love building software and solving complex engineering problems using Java ☕️, Rust 🦀, Python 🐍, and OCaml 🐫.
 
-I have a strong enthusiasm for compilers and DSLs, and lately, I've been fascinated by the mechanics of LLM inference engines. I'm always looking to learn new things and improve my craft in optimization and software analysis.
+I have a strong enthusiasm for compilers and DSLs, and lately, I've been fascinated by the mechanics of LLM inference engines. I'm always looking to learn new things and improve my craft in performance-critical softwares, optimization and software analysis.
 
 Feel free to reach out via GitHub if you want to chat or collaborate!
 
